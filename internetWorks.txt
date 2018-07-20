@@ -1,0 +1,7 @@
+How does the internet work?
+
+
+First of all, the internet is a global computer network providing a variety of information 
+and communication facilities, consisting of interconnected networks using standardized communication protocols.
+
+The internet uses some form of electricity to operate. Futhermore, 
